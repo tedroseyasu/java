@@ -1,0 +1,3 @@
+com\apiSecurity\testSecurity\TestSecurityApplication.class
+com\apiSecurity\testSecurity\Controller\CheckAPI.class
+com\apiSecurity\testSecurity\Config\SecurityConfig.class
